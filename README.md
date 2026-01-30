@@ -1,2 +1,2 @@
-# discord_reverse_shell
-A proof of concept reverse shell using Discord Bots, written in Python.
+# Discord Reverse Shell
+A proof-of-concept reverse shell using Discord bots, written in Python.
